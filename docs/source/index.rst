@@ -20,3 +20,4 @@ Contents
 
    usage
    api
+   an-introduction-to-the-strings-package-in-go
