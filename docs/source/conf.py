@@ -1,5 +1,6 @@
 # Configuration file for the Sphinx documentation builder.
-
+#Theme options
+import sphinx_bootstrap_theme
 # -- Project information
 
 project = 'J-docs'
@@ -29,7 +30,8 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'bootstrap'
+html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
