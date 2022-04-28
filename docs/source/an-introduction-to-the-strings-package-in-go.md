@@ -1,14 +1,3 @@
----
-title: "An Introduction to the Strings Package in Go"
-linkTitle: "An Introduction to the Strings Package in Go"
-slug: an-introduction-to-the-strings-package-in-go
-categories: ["Go","Development"]
-author: Gopher Guides
-date: 2019-04-29
-source: https://www.digitalocean.com/community/tutorials/an-introduction-to-the-strings-package-in-go
-description: >
-   Go’s string package has several functions available to work with the string data type. These functions let us easily modify and manipulate… 
----
 
 # An Introduction to the Strings Package in Go
 
